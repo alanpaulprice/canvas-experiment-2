@@ -1,11 +1,8 @@
-// out: styles.css
-
-*{
+* {
   margin: 0;
   padding: 0;
 }
-
-body{
+body {
   background-color: #808080;
   overflow: hidden;
 }
